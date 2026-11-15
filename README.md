@@ -1,0 +1,1 @@
+Current project I am working on, using agentic platform Antigravity to develop a mobile study timer app that solves the primary problem I currently have: unpredictability of a daily schedule. Flexibility and a time bank for excess time and a slick rotational dial allow users to easily adjust their plans on the fly. Link to try below, best on mobile
